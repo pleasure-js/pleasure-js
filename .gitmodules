@@ -1,0 +1,12 @@
+[submodule "packages/utils"]
+	path = packages/utils
+	url = git@github.com:pleasure-js/utils.git
+[submodule "packages/cli"]
+	path = packages/cli
+	url = git@github.com:pleasure-js/cli.git
+[submodule "packages/api"]
+	path = packages/api
+	url = git@github.com:pleasure-js/api.git
+[submodule "packages/api-client"]
+	path = packages/api-client
+	url = git@github.com:pleasure-js/api-client.git
